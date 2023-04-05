@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Я загадал число от 0 до 1000.");
         System.out.println("Ваш ход:");
 
-        // Напишите условие цикла для запуска игры
+        // Условие цикла для запуска игры
 
         while(userInput != randomInt){
             userInput = scanner.nextInt(); // В этой переменной должен сохраняться ввод пользователя
